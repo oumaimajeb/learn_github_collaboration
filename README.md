@@ -1,5 +1,3 @@
-### Names of contributors:
-- Alice Johnson
-- John Doe
+[Names of contributors]
 - Oumaima Jebrouni
-Added Oumaima Jebrouni to contributors list
+Added Oumaima Jebrouni to [Names of contributors]
